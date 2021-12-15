@@ -1,5 +1,5 @@
 # General release info
-APP_NAME       := aws-ip-manager
+APP_NAME       := aws-multus-ip-manager
 DOCKER_ACCOUNT := boeboe
 VERSION	       := alpine-0.1
 
