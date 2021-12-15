@@ -1,7 +1,7 @@
 # General release info
 APP_NAME       := aws-ip-manager
 DOCKER_ACCOUNT := boeboe
-VERSION	       := alpine-1.0
+VERSION	       := alpine-0.1
 
 # HELP
 # This will output the help for each task
