@@ -3,7 +3,7 @@ FROM frolvlad/alpine-python3
 
 ARG VERSION
 
-LABEL component="aws-ip-manager"
+LABEL component="aws-multus-ip-manager"
 LABEL description="Init or sidecar container for multus AWS IP management"
 LABEL version=${VERSION}
 LABEL maintainer="Bart Van Bos <bartvanbos@gmail.com>"
